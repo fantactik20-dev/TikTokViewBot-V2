@@ -11,6 +11,7 @@ Run the installer and follow the default instructions.
 Install the axios library
 In the CMD or PowerShell window, type:
 npm install axios
+or npm install
 
 3️⃣ How To run type : 
    node cd.js
