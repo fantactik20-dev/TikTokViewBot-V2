@@ -1,3 +1,5 @@
+Note: The tool has become extremely slow. 
+
 How to install 
 1️⃣ Download Node.js
 
