@@ -23,4 +23,4 @@ or npm install
 Thank You For Download The Tool
 made by : 
 TikTok : dfw.e 
-Discord : b.31_ 
+Discord : 1.2ss
